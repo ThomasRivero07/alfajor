@@ -9,4 +9,5 @@
 5. Se le pone el pan rallado a la carne
 6. Freir la carne con el pan rallado
 7. Agregar todos los condimentos a tu gusto
-8. *Receta lista!*
+8. Si tu quieres no hace falta ponerle condimentos
+9. *Receta lista!*
